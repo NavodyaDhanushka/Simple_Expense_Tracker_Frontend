@@ -16,15 +16,16 @@ The Simple Expense Tracker is a full-stack web application built with the MERN s
 ✏️ Edit Expense – Update any expense details.
 
 🗑️ Delete Expense – Remove unwanted expense records.
+
 ## Tech Stack
 
-MongoDB – Database for storing expenses.
+⚙ MongoDB – Database for storing expenses.
 
-Express.js – Backend framework for API handling.
+⚙ Express.js – Backend framework for API handling.
 
-React.js – Frontend with a responsive and interactive UI.
+⚙ React.js – Frontend with a responsive and interactive UI.
 
-Node.js – Server-side runtime environment.
+⚙ Node.js – Server-side runtime environment.
 
 ## Frontend Setup & Deployment
 
